@@ -15,3 +15,6 @@ This project focuses on analyzing and visualizing fictional data for the pharmac
 5. Line Plot and Scatter Plot: A line plot is generated to show the tumor volume over time for a single mouse treated with Capomulin. Additionally, a scatter plot is created to examine the relationship between mouse weight and average observed tumor volume for the entire Capomulin regimen.
 
 6. Correlation and Regression: The correlation coefficient between mouse weight and average tumor volume for the Capomulin regimen is calculated. A linear regression model is performed and visualized on the scatter plot to understand the relationship between the two variables.
+
+## Credits
+Referenced class materials and ChatGPT
